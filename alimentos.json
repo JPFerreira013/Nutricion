@@ -1,0 +1,314 @@
+[
+    {
+        "Alimento": "Abacate",
+        "Peso (g)": 100,
+        "Kcal": 160,
+        "Gordura": 13.0,
+        "Carboidrato": 7.0,
+        "Proteina": 2.0
+    },
+    {
+        "Alimento": "Abobora",
+        "Peso (g)": 100,
+        "Kcal": 26,
+        "Gordura": 0.1,
+        "Carboidrato": 7.0,
+        "Proteina": 1.0
+    },
+    {
+        "Alimento": "Alface",
+        "Peso (g)": 100,
+        "Kcal": 15,
+        "Gordura": 0.2,
+        "Carboidrato": 2.9,
+        "Proteina": 1.4
+    },
+    {
+        "Alimento": "Alubias marrones",
+        "Peso (g)": 100,
+        "Kcal": 287,
+        "Gordura": 2.0,
+        "Carboidrato": 37.0,
+        "Proteina": 19.0
+    },
+    {
+        "Alimento": "Arroz",
+        "Peso (g)": 100,
+        "Kcal": 344,
+        "Gordura": 1.0,
+        "Carboidrato": 75.0,
+        "Proteina": 7.6
+    },
+    {
+        "Alimento": "Atum",
+        "Peso (g)": 100,
+        "Kcal": 100,
+        "Gordura": 0.9,
+        "Carboidrato": 0.0,
+        "Proteina": 23.0
+    },
+    {
+        "Alimento": "Aveia",
+        "Peso (g)": 100,
+        "Kcal": 374,
+        "Gordura": 7.0,
+        "Carboidrato": 58.0,
+        "Proteina": 13.5
+    },
+    {
+        "Alimento": "Banana",
+        "Peso (g)": 100,
+        "Kcal": 89,
+        "Gordura": 0.33,
+        "Carboidrato": 22.84,
+        "Proteina": 1.09
+    },
+    {
+        "Alimento": "Barra de Pan",
+        "Peso (g)": 100,
+        "Kcal": 268,
+        "Gordura": 1.3,
+        "Carboidrato": 54.0,
+        "Proteina": 8.9
+    },
+    {
+        "Alimento": "Batata Roja",
+        "Peso (g)": 100,
+        "Kcal": 62,
+        "Gordura": 0.5,
+        "Carboidrato": 13.3,
+        "Proteina": 1.4
+    },
+    {
+        "Alimento": "Brocolis",
+        "Peso (g)": 100,
+        "Kcal": 34,
+        "Gordura": 0.37,
+        "Carboidrato": 6.64,
+        "Proteina": 2.82
+    },
+    {
+        "Alimento": "Cenoura",
+        "Peso (g)": 100,
+        "Kcal": 35,
+        "Gordura": 0.0,
+        "Carboidrato": 11.0,
+        "Proteina": 1.0
+    },
+    {
+        "Alimento": "Cerveja lager",
+        "Peso (g)": 100,
+        "Kcal": 42,
+        "Gordura": 0.0,
+        "Carboidrato": 2.7,
+        "Proteina": 0.5
+    },
+    {
+        "Alimento": "Chocolate branco coco",
+        "Peso (g)": 100,
+        "Kcal": 535,
+        "Gordura": 32.0,
+        "Carboidrato": 56.0,
+        "Proteina": 5.7
+    },
+    {
+        "Alimento": "Chocolate branco Cookie",
+        "Peso (g)": 100,
+        "Kcal": 533,
+        "Gordura": 30.0,
+        "Carboidrato": 60.0,
+        "Proteina": 6.5
+    },
+    {
+        "Alimento": "Clara de Ovo",
+        "Peso (g)": 100,
+        "Kcal": 50,
+        "Gordura": 0.1,
+        "Carboidrato": 0.5,
+        "Proteina": 11.0
+    },
+    {
+        "Alimento": "Cogumelo",
+        "Peso (g)": 100,
+        "Kcal": 26,
+        "Gordura": 0.2,
+        "Carboidrato": 5.0,
+        "Proteina": 2.5
+    },
+    {
+        "Alimento": "Creme de Leite",
+        "Peso (g)": 100,
+        "Kcal": 163,
+        "Gordura": 15.0,
+        "Carboidrato": 5.0,
+        "Proteina": 2.0
+    },
+    {
+        "Alimento": "Espinafre",
+        "Peso (g)": 100,
+        "Kcal": 23,
+        "Gordura": 0.4,
+        "Carboidrato": 3.6,
+        "Proteina": 2.9
+    },
+    {
+        "Alimento": "Frango (sobrecoxa)",
+        "Peso (g)": 100,
+        "Kcal": 127,
+        "Gordura": 4.9,
+        "Carboidrato": 1.6,
+        "Proteina": 19.0
+    },
+    {
+        "Alimento": "Frango Peito",
+        "Peso (g)": 100,
+        "Kcal": 120,
+        "Gordura": 0.0,
+        "Carboidrato": 2.6,
+        "Proteina": 23.0
+    },
+    {
+        "Alimento": "Leite (Semi)",
+        "Peso (g)": 100,
+        "Kcal": 46,
+        "Gordura": 1.6,
+        "Carboidrato": 4.8,
+        "Proteina": 3.1
+    },
+    {
+        "Alimento": "Leite pro",
+        "Peso (g)": 100,
+        "Kcal": 44,
+        "Gordura": 0.2,
+        "Carboidrato": 4.6,
+        "Proteina": 6.0
+    },
+    {
+        "Alimento": "Lentilha",
+        "Peso (g)": 100,
+        "Kcal": 116,
+        "Gordura": 0.4,
+        "Carboidrato": 28.0,
+        "Proteina": 9.0
+    },
+    {
+        "Alimento": "Macarron",
+        "Peso (g)": 100,
+        "Kcal": 366,
+        "Gordura": 1.5,
+        "Carboidrato": 74.0,
+        "Proteina": 12.0
+    },
+    {
+        "Alimento": "Milho lata",
+        "Peso (g)": 100,
+        "Kcal": 82,
+        "Gordura": 1.4,
+        "Carboidrato": 14.0,
+        "Proteina": 2.5
+    },
+    {
+        "Alimento": "Ovo",
+        "Peso (g)": 100,
+        "Kcal": 133,
+        "Gordura": 9.2,
+        "Carboidrato": 0.5,
+        "Proteina": 12.1
+    },
+    {
+        "Alimento": "Pasta Amendoin",
+        "Peso (g)": 100,
+        "Kcal": 610,
+        "Gordura": 48.2,
+        "Carboidrato": 15.5,
+        "Proteina": 6.2
+    },
+    {
+        "Alimento": "Pimenton",
+        "Peso (g)": 100,
+        "Kcal": 20,
+        "Gordura": 0.2,
+        "Carboidrato": 4.6,
+        "Proteina": 0.9
+    },
+    {
+        "Alimento": "Pizza atum y bacon",
+        "Peso (g)": 100,
+        "Kcal": 260,
+        "Gordura": 10.0,
+        "Carboidrato": 31.0,
+        "Proteina": 11.0
+    },
+    {
+        "Alimento": "Pizza Carbonara",
+        "Peso (g)": 100,
+        "Kcal": 253,
+        "Gordura": 9.1,
+        "Carboidrato": 29.8,
+        "Proteina": 12.1
+    },
+    {
+        "Alimento": "Queijo Ralado",
+        "Peso (g)": 100,
+        "Kcal": 353,
+        "Gordura": 29.0,
+        "Carboidrato": 2.0,
+        "Proteina": 21.0
+    },
+    {
+        "Alimento": "Repolho Roxo",
+        "Peso (g)": 100,
+        "Kcal": 27,
+        "Gordura": 0.0,
+        "Carboidrato": 9.0,
+        "Proteina": 1.4
+    },
+    {
+        "Alimento": "Salmon lata",
+        "Peso (g)": 100,
+        "Kcal": 143,
+        "Gordura": 7.5,
+        "Carboidrato": 1.8,
+        "Proteina": 17.0
+    },
+    {
+        "Alimento": "Sardinha azeite",
+        "Peso (g)": 100,
+        "Kcal": 289,
+        "Gordura": 23.0,
+        "Carboidrato": 0.7,
+        "Proteina": 20.0
+    },
+    {
+        "Alimento": "Solomilho",
+        "Peso (g)": 100,
+        "Kcal": 135,
+        "Gordura": 5.1,
+        "Carboidrato": 0.0,
+        "Proteina": 21.0
+    },
+    {
+        "Alimento": "Tomate cereja",
+        "Peso (g)": 100,
+        "Kcal": 18,
+        "Gordura": 0.2,
+        "Carboidrato": 3.92,
+        "Proteina": 0.8
+    },
+    {
+        "Alimento": "Whey",
+        "Peso (g)": 100,
+        "Kcal": 366,
+        "Gordura": 2.1,
+        "Carboidrato": 15.0,
+        "Proteina": 70.0
+    },
+    {
+        "Alimento": "Wrap",
+        "Peso (g)": 100,
+        "Kcal": 294,
+        "Gordura": 5.3,
+        "Carboidrato": 53.0,
+        "Proteina": 8.0
+    }
+]
